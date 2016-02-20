@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Olá, me chamo Abner Terribili, sou da década de 90, curto muito desenvolvimento, principalmente linguagens funcionais. Ultimamente tenho estudado Javascript, C e Haskell. Trabalho com mobile na [Elo7](http://www.elo7.com), faço apps iOS e Android, as vezes um pouco de backend e frontend. Fora essa vida de programador, sou namorado da [Tammy](https://twitter.com/mmykros), adoro pedalar e vida outdoor. Curto muito viagens, cavernas, trekking e por aí vai.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Quer manter contato?
+abner.terribili@gmail.com
