@@ -24,8 +24,8 @@ BAAAM! Quando ele fosse usar o sistema de chat e tivesse a conversa cacheada, el
 ```swift
 func isGreater(list: [Int], list2: [Int]) -> Bool {
     if list.count == list2.count {
-        for var i = 0; i < x.count; i++ {
-            if x[i] > y[i] {
+        for var i = 0; i < list.count; i++ {
+            if list[i] > list2[i] {
                 return true
             }
         }
@@ -42,10 +42,11 @@ Acordei empolgado pra pensar em algo mais simples de ler, mais simples de fazer 
 
 ```haskell
 is_greater :: [Int] -> [Int] -> Bool
-is_greater _ [] = True
+is_greater _ [] = False
 is_greater [] _ = False
 is_greater [] [] = False
 is_greater (x:xs) (y:ys) | x > y = True
+                         | x < y = False
                          | otherwise = is_greater xs ys
 ```
 
